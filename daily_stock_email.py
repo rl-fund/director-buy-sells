@@ -3,7 +3,8 @@
 Daily Portfolio Stock Summary - Email at 8am AEST.
 
 Fetches previous trading session data for a multi-region watchlist and
-emails a summary (with news headlines) via Gmail.
+emails a summary (with market cap, news headlines) via Gmail.
+Stocks sorted by daily % change (biggest movers first) within each region.
 
 Designed to be run via GitHub Actions at 8am AEST or via cron.
 
@@ -27,7 +28,6 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-# Stocks grouped by region. Keys are (yfinance ticker, display name).
 REGIONS = OrderedDict([
     ("🇦🇺 ASX (Australia)", {
         "360.AX": "Life360",
@@ -62,15 +62,13 @@ REGIONS = OrderedDict([
     }),
 ])
 
-# Currency symbols per region
 REGION_CURRENCY = {
     "🇦🇺 ASX (Australia)": "A$",
     "🇺🇸 US (NYSE / NASDAQ / ARCA)": "$",
-    "🇪🇺 Europe": "",       # mixed currencies, shown per-stock
+    "🇪🇺 Europe": "",
     "🇨🇦 Canada (TSX)": "C$",
 }
 
-# Override currency for specific European tickers
 TICKER_CURRENCY = {
     "CDR.WA": "PLN ",
     "RHM.DE": "€",
@@ -86,7 +84,7 @@ RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL", GMAIL_ADDRESS)
 # Data fetching
 # ---------------------------------------------------------------------------
 def fetch_stock_data(ticker: str) -> dict | None:
-    """Fetch the most recent trading day's data for a ticker."""
+    """Fetch the most recent trading day's data plus market cap for a ticker."""
     stock = yf.Ticker(ticker)
     hist = stock.history(period="5d")
     if hist.empty or len(hist) < 1:
@@ -105,6 +103,14 @@ def fetch_stock_data(ticker: str) -> dict | None:
     change = close - prev_close
     change_pct = (change / prev_close) * 100 if prev_close else 0
 
+    # Market cap from info
+    market_cap = None
+    try:
+        info = stock.info
+        market_cap = info.get("marketCap")
+    except Exception:
+        pass
+
     return {
         "date": str(hist.index[-1].date()),
         "open": open_price,
@@ -115,6 +121,7 @@ def fetch_stock_data(ticker: str) -> dict | None:
         "change": change,
         "change_pct": change_pct,
         "volume": volume,
+        "market_cap": market_cap,
     }
 
 
@@ -154,6 +161,18 @@ def fmt_vol(v: int) -> str:
     return str(v)
 
 
+def fmt_mcap(mc: int | None) -> str:
+    if mc is None:
+        return "N/A"
+    if mc >= 1_000_000_000_000:
+        return f"${mc / 1_000_000_000_000:.2f}T"
+    if mc >= 1_000_000_000:
+        return f"${mc / 1_000_000_000:.2f}B"
+    if mc >= 1_000_000:
+        return f"${mc / 1_000_000:.0f}M"
+    return f"${mc:,.0f}"
+
+
 def arrow(change: float) -> str:
     if change > 0:
         return "▲"
@@ -168,6 +187,16 @@ def get_currency(ticker: str, region: str) -> str:
     return REGION_CURRENCY.get(region, "$")
 
 
+def sort_by_change(tickers: list[str], results: dict) -> list[str]:
+    """Sort tickers by % change descending (biggest gainers first, biggest losers last)."""
+    def sort_key(t):
+        data = results.get(t)
+        if data is None:
+            return float("-inf")
+        return data["change_pct"]
+    return sorted(tickers, key=sort_key, reverse=True)
+
+
 # ---------------------------------------------------------------------------
 # Email body builders
 # ---------------------------------------------------------------------------
@@ -180,14 +209,16 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
     lines = [
         "Portfolio Daily Summary",
         f"Report generated: {now_aest.strftime('%a %d %b %Y %I:%M %p AEDT')}",
-        "=" * 65,
+        "=" * 70,
         "",
     ]
 
     for region, stocks in REGIONS.items():
         lines.append(region)
-        lines.append("-" * 50)
-        for ticker, name in stocks.items():
+        lines.append("-" * 55)
+        sorted_tickers = sort_by_change(list(stocks.keys()), results)
+        for ticker in sorted_tickers:
+            name = stocks[ticker]
             cur = get_currency(ticker, region)
             data = results.get(ticker)
             lines.append(f"  {name} ({ticker})")
@@ -197,12 +228,12 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
                 sign = "+" if data["change"] >= 0 else ""
                 lines.append(f"    Close: {cur}{fmt(data['close'])}  "
                              f"Change: {sign}{cur}{fmt(data['change'])} "
-                             f"({sign}{fmt(data['change_pct'])}%)")
+                             f"({sign}{fmt(data['change_pct'])}%)  "
+                             f"Mkt Cap: {fmt_mcap(data['market_cap'])}")
                 lines.append(f"    Open: {cur}{fmt(data['open'])}  "
                              f"High: {cur}{fmt(data['high'])}  "
                              f"Low: {cur}{fmt(data['low'])}  "
                              f"Vol: {fmt_vol(data['volume'])}")
-            # News
             ticker_news = news_data.get(ticker, [])
             if ticker_news:
                 for n in ticker_news:
@@ -210,14 +241,16 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
             lines.append("")
         lines.append("")
 
-    lines.append("=" * 65)
+    lines.append("=" * 70)
     plain_body = "\n".join(lines)
 
     # ---- HTML ----
     sections_html = ""
     for region, stocks in REGIONS.items():
         rows_html = ""
-        for ticker, name in stocks.items():
+        sorted_tickers = sort_by_change(list(stocks.keys()), results)
+        for ticker in sorted_tickers:
+            name = stocks[ticker]
             cur = get_currency(ticker, region)
             data = results.get(ticker)
 
@@ -246,13 +279,14 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
                         {name}<br><span style="color:#666;font-size:0.85em;">{ticker}</span>
                         {news_html}
                     </td>
-                    <td colspan="6" style="padding:8px;border:1px solid #ddd;color:#999;">No data</td>
+                    <td colspan="7" style="padding:8px;border:1px solid #ddd;color:#999;">No data</td>
                 </tr>"""
                 continue
 
             color = "#16a34a" if data["change"] >= 0 else "#dc2626"
             sign = "+" if data["change"] >= 0 else ""
             arr = arrow(data["change"])
+            mcap = fmt_mcap(data["market_cap"])
             rows_html += f"""
                 <tr>
                     <td style="padding:8px;border:1px solid #ddd;font-weight:bold;">
@@ -264,6 +298,7 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
                         {arr} {sign}{cur}{fmt(data['change'])}<br>
                         <span style="font-size:0.85em;">({sign}{fmt(data['change_pct'])}%)</span>
                     </td>
+                    <td style="padding:8px;border:1px solid #ddd;text-align:right;">{mcap}</td>
                     <td style="padding:8px;border:1px solid #ddd;text-align:right;">{cur}{fmt(data['open'])}</td>
                     <td style="padding:8px;border:1px solid #ddd;text-align:right;">{cur}{fmt(data['high'])}</td>
                     <td style="padding:8px;border:1px solid #ddd;text-align:right;">{cur}{fmt(data['low'])}</td>
@@ -279,6 +314,7 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
                 <th style="padding:8px;border:1px solid #ddd;text-align:left;">Stock</th>
                 <th style="padding:8px;border:1px solid #ddd;text-align:right;">Close</th>
                 <th style="padding:8px;border:1px solid #ddd;text-align:right;">Change</th>
+                <th style="padding:8px;border:1px solid #ddd;text-align:right;">Mkt Cap</th>
                 <th style="padding:8px;border:1px solid #ddd;text-align:right;">Open</th>
                 <th style="padding:8px;border:1px solid #ddd;text-align:right;">High</th>
                 <th style="padding:8px;border:1px solid #ddd;text-align:right;">Low</th>
@@ -289,12 +325,13 @@ def build_email_body(results: dict, news_data: dict) -> tuple[str, str, str]:
         """
 
     html_body = f"""
-    <html><body style="font-family:Arial,sans-serif;max-width:900px;margin:auto;padding:16px;">
+    <html><body style="font-family:Arial,sans-serif;max-width:950px;margin:auto;padding:16px;">
     <h2 style="color:#1e293b;">Portfolio Daily Summary</h2>
     <p style="color:#64748b;">Report generated: {now_aest.strftime('%a %d %b %Y %I:%M %p AEDT')}</p>
+    <p style="color:#94a3b8;font-size:12px;">Sorted by daily % change (highest to lowest)</p>
     {sections_html}
     <p style="color:#94a3b8;font-size:12px;margin-top:20px;">
-        Data sourced from Yahoo Finance. Prices in local currency.
+        Data sourced from Yahoo Finance. Prices in local currency. Market cap in USD.
     </p>
     </body></html>
     """
@@ -339,7 +376,6 @@ def main():
     results = {}
     news_data = {}
     for ticker in all_tickers:
-        # Price data
         try:
             results[ticker] = fetch_stock_data(ticker)
             status = "OK" if results[ticker] else "no data"
@@ -348,7 +384,6 @@ def main():
             status = f"error: {e}"
         print(f"  {ticker}: {status}")
 
-        # News
         news_data[ticker] = fetch_news(ticker)
         news_count = len(news_data[ticker])
         if news_count:
