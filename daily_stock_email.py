@@ -99,7 +99,8 @@ def fetch_stock_data(ticker: str) -> dict | None:
     open_price = latest["Open"]
     high = latest["High"]
     low = latest["Low"]
-    volume = int(latest["Volume"])
+    raw_vol = latest["Volume"]
+    volume = int(raw_vol) if raw_vol == raw_vol else 0  # NaN != NaN
 
     prev_close = prev["Close"] if prev is not None else open_price
     change = close - prev_close
@@ -125,9 +126,16 @@ def fetch_news(ticker: str, max_items: int = 3) -> list[dict]:
         news = stock.news or []
         results = []
         for item in news[:max_items]:
-            title = item.get("title", "")
-            link = item.get("link", "")
-            publisher = item.get("publisher", "")
+            # Handle both old and new yfinance news formats.
+            # New format nests data under item["content"].
+            content = item.get("content", {})
+            title = content.get("title") or item.get("title", "")
+            link = (
+                (content.get("canonicalUrl") or {}).get("url")
+                or item.get("link", "")
+            )
+            provider = content.get("provider") or {}
+            publisher = provider.get("displayName") or item.get("publisher", "")
             if title:
                 results.append({
                     "title": title,
