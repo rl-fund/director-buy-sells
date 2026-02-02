@@ -1,0 +1,188 @@
+================================================================================
+SIGMA HEALTHCARE LIMITED (ASX: SIG) - DIRECTOR BUY & SELL TRADES
+================================================================================
+Data compiled from web searches on 2 February 2026
+Covers: Post-merger period (Feb 2025 onwards) + historical context
+================================================================================
+
+NOTE: The vast majority of significant director trades occurred AFTER the
+Chemist Warehouse reverse merger completed on 13 February 2025. Pre-merger
+director trades (2016-2024) were small in scale and detailed transaction data
+was not available through web searches. The original Appendix 3Y PDFs on the
+ASX announcements portal (announcements.asx.com.au) would need to be accessed
+directly for pre-merger trade details.
+
+================================================================================
+CONFIRMED DIRECTOR TRADES (with specific transaction details)
+================================================================================
+
+1. VIKESH RAMSUNDER (CEO & Managing Director) - BUY
+   Date:        12 February 2025
+   Type:        BUY (on-market purchase)
+   Shares:      1,167,106
+   Price:       A$2.76 per share
+   Total Value: A$3,221,212.56
+   Context:     Purchase made just before the Chemist Warehouse merger
+                completion on 13 Feb 2025.
+
+2. DAMIEN GANCE (Director; son of co-founder Sam Gance) - SELL #1
+   Date:        14 February 2025
+   Type:        SELL (off-market trade)
+   Shares:      40,000,000
+   Price:       A$3.00 per share
+   Total Value: A$120,000,000
+   Context:     First post-merger sell-down. Shares held indirectly through
+                DGSR Family Foundation Pty Ltd (Gance is sole director/
+                shareholder). Sold during Special Dispensation trading window
+                (13 Feb - 13 Mar 2025).
+
+3. DAMIEN GANCE - SELL #2
+   Date:        14 April 2025
+   Type:        SELL (off-market trade)
+   Shares:      100,000,000
+   Price:       A$2.97 per share
+   Total Value: A$297,000,000
+   Context:     Second tranche sell-down.
+
+4. DAMIEN GANCE - SELL #3
+   Date:        9 May 2025
+   Type:        SELL (off-market trade)
+   Shares:      126,500,000
+   Price:       A$3.02 per share
+   Total Value: A$382,030,000
+   Context:     Third tranche. After this sale, DGSR Family Foundation Pty Ltd
+                held 127,329,615 ordinary shares. Gance later stepped down as
+                Chief Strategy & Business Development Officer on 1 Sep 2025
+                but remained as non-executive director.
+
+   DAMIEN GANCE TOTAL SALES: 266,500,000 shares for ~A$799,030,000 (~A$800M)
+   This represents approximately two-thirds of his original holding.
+
+5. DANIELLE DI PILLA (Director; Chemist Warehouse franchisee) - SELL #1
+   Date:        26 May 2025
+   Type:        SELL (on-market trade)
+   Shares:      235,348
+   Price:       A$3.15 per share
+   Total Value: A$741,346.20
+
+6. DANIELLE DI PILLA - SELL #2
+   Date:        27 May 2025
+   Type:        SELL (on-market trade)
+   Shares:      14,764,652
+   Price:       A$3.16 per share
+   Total Value: A$46,612,006.36
+
+7. DANIELLE DI PILLA - SELL #3
+   Date:        28 May 2025
+   Type:        SELL (on-market trade)
+   Shares:      7,500,000
+   Price:       A$3.20 per share
+   Total Value: A$24,000,000.00
+
+8. DANIELLE DI PILLA - SELL #4
+   Date:        29 May 2025
+   Type:        SELL (on-market trade)
+   Shares:      7,342,150
+   Price:       A$3.18 per share
+   Total Value: A$23,311,326.25
+
+   DANIELLE DI PILLA TOTAL SALES: 29,842,150 shares for ~A$94,664,679
+   Holdings reduced from 61,243,218 to 31,401,068 ordinary shares.
+
+9. JACK GANCE (Non-Executive Director; Chemist Warehouse co-founder) - SELL
+   Date:        28 August 2025 (after close of trading)
+   Type:        SELL (off-market trade via Macquarie Capital)
+   Shares:      155,100,000
+   Price:       A$3.10 per share
+   Total Value: A$480,810,000
+   Context:     Sold within 24 hours of 157.9 million shares being released
+                from voluntary escrow (triggered by release of FY25 results on
+                27 Aug 2025). Part of ~558.1 million shares released from
+                escrow belonging to Jack Gance, Sam Gance, and Mario Verrocchi.
+                Despite this sale, Jack Gance still holds >1.42 billion shares
+                (~12.34% stake).
+
+================================================================================
+PERFORMANCE RIGHTS GRANTS (not market trades, but disclosed via Appendix 3Y)
+================================================================================
+
+- MARIO VERROCCHI (Executive Director / CEO of Chemist Warehouse):
+  Granted 314,021 performance rights under the 2025 Long Term Incentive Plan.
+  No on-market share sales found for Verrocchi in searches.
+  Holds ~22% of shares outstanding (largest individual insider).
+
+- VIKESH RAMSUNDER (CEO & Managing Director):
+  Granted 813,449 performance rights under the 2025 LTI Plan.
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Director BUYS found:   1 trade (Vikesh Ramsunder)
+Total Director SELLS found:  9 trades (Damien Gance x3, Danielle Di Pilla x4,
+                              Jack Gance x1)
+
+Total Buy Value:             A$3,221,213
+Total Sell Value:            A$1,374,504,679
+
+Net Director Selling:        A$1,371,283,466 (net sell)
+
+Overall insider ownership remains at ~50-54% of the company (~A$17 billion),
+despite the ~A$1.4 billion in director sales.
+
+================================================================================
+DIRECTOR SHAREHOLDINGS (as at December 2024 EGM / pre-merger)
+================================================================================
+Michael Sammells (Chairman):     258,448 shares
+Chris Roberts:                   12,014 shares
+Annette Carey:                   21,212 shares
+Neville Mitchell:                30,295 shares
+Kate Spargo:                     719,679 shares (resigned post-merger)
+Vikesh Ramsunder (CEO):          11,662,028 shares + 6,088,884 Performance Rights
+
+================================================================================
+POST-MERGER KEY INSIDER HOLDINGS
+================================================================================
+Mario Verrocchi:  ~22% of shares outstanding (largest individual insider)
+Sam Gance:        ~13-14% of shares outstanding
+Jack Gance:       ~12.34% (>1.42 billion shares, after $481M sale)
+Top 4 insiders:   Control >50% of the company
+
+================================================================================
+PRE-MERGER DIRECTOR TRADES (2016-2024) - LIMITED DATA AVAILABLE
+================================================================================
+
+Web searches identified that Appendix 3Y filings were made on the following
+dates, but specific transaction details could not be extracted:
+
+- September 2016: Appendix 3Y Change of Director's Interest Notice
+- June 2019: Appendix 3Y Change of Director's Interest Notice
+- October 2019: Appendix 3Y Change of Director's Interest Notice
+- April 2022: Appendix 3Y Change of Director's Interest Notice
+- July 2022: Appendix 3Y Change of Director's Interest Notice
+
+These filings covered directors of the pre-merger Sigma Healthcare entity
+(which was a pharmaceutical wholesaler). The ASX PDF filings were not
+accessible via web fetch. To obtain full details, access the PDFs directly at:
+https://announcements.asx.com.au (search for SIG, filter by "Director's
+Interest Notice").
+
+Note: Sigma Healthcare changed its ASX ticker from SIP to SIG on 3 May 2017.
+Earlier filings may be under the SIP code.
+
+================================================================================
+SOURCES
+================================================================================
+
+- ASX Company Page: https://www.asx.com.au/markets/company/SIG
+- Sigma Healthcare Investor Centre: https://investorcentre.sigmahealthcare.com.au/asx-announcements
+- MarketScreener (Damien Gance 100M sale): https://www.marketscreener.com/quote/stock/SIGMA-HEALTHCARE-LIMITED-34771453/news/Sigma-Healthcare-Director-Sells-100-Million-Shares-49629485/
+- MarketScreener (Damien Gance 126.5M sale): https://uk.marketscreener.com/quote/stock/SIGMA-HEALTHCARE-LIMITED-34771453/news/Sigma-Healthcare-Director-Offloads-126-5-Million-Ordinary-Shares-49971936/
+- Pharmacy Daily (Gance $380M): https://pharmacydaily.com.au/news/gance-sells-380m-sigma-shares/114984
+- Motley Fool (Jack Gance $480M): https://www.fool.com.au/2025/09/04/which-asx-200-company-director-just-sold-480-million-worth-of-shares/
+- TipRanks: https://www.tipranks.com/news/company-announcements/sigma-healthcare-directors-significant-share-disposal
+- Simply Wall St: https://simplywall.st/stocks/au/healthcare/asx-sig/sigma-healthcare-shares/news/sigma-healthcare-insiders-sold-au14b-of-shares-suggesting-he/amp
+- Enterprise Leader (Ramsunder buy): https://theenterpriseleader.com/2025/02/19/vikesh-ramsunder-acquires-1167106-shares-of-sigma-healthcare-limited-asxsig-stock.html
+- Daily Political (Di Pilla sales): https://www.dailypolitical.com/2025/06/04/sigma-healthcare-limited-asxsig-insider-danielle-di-pilla-sells-14764652-shares.html
+- Listcorp: https://www.listcorp.com/asx/sig/sigma-healthcare-limited
+- Market Index: https://www.marketindex.com.au/asx/sig
