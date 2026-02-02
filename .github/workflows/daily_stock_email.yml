@@ -2,8 +2,9 @@ name: Daily US Stock Email
 
 on:
   schedule:
-    # 8am AEDT = 9pm UTC previous day (UTC+11)
-    - cron: '0 21 * * 0-4'
+    # Tue-Sat 8am AEDT = Mon-Fri 9pm UTC (UTC+11)
+    # Note: in AEST (Apr-Oct) this will arrive at 9am Melbourne time
+    - cron: '0 21 * * 1-5'
   workflow_dispatch: # allows manual trigger from GitHub UI
 
 jobs:
