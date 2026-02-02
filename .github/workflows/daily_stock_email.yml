@@ -1,0 +1,30 @@
+name: Daily US Stock Email
+
+on:
+  schedule:
+    # 8am AEDT = 9pm UTC previous day (UTC+11)
+    - cron: '0 21 * * 0-4'
+  workflow_dispatch: # allows manual trigger from GitHub UI
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send daily stock email
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python daily_stock_email.py
