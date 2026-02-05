@@ -1039,6 +1039,398 @@ CW's Australian model (discount prices + full pharmacy + front-of-store health/b
 
 ---
 
+## SECTION 7: AUSTRALIAN PHARMACY MARKET - BOTTOM-UP ANALYSIS
+
+### 7.1 Market Overview
+
+#### 7.1.1 Total Market Size (Multiple Estimates)
+
+| Source | 2024 Market Size | Definition |
+|--------|------------------|------------|
+| IBISWorld | A$26.5B | Pharmacy retail industry revenue |
+| Statista | US$20.0B (~A$30B) | Pharmacy market revenue |
+| IMARC Group | US$38.6B (~A$58B) | Pharmacy retail (broader definition) |
+| Expert Market Research | US$26.6B (~A$40B) | Pharmacy retail market |
+
+**Note:** Variations reflect different market definitions (inclusion/exclusion of wholesale, PBS vs retail, etc.)
+
+**Best Estimate (IBISWorld methodology):** **A$26-27 billion** for pharmacy retail industry revenue in FY2024/25.
+
+---
+
+### 7.2 Bottom-Up Market Size Model
+
+#### 7.2.1 Component-Based Build-Up
+
+| Segment | 2024 Value (A$B) | % of Total | Source |
+|---------|------------------|------------|--------|
+| **PBS Dispensing (Government)** | 17.7 | 66% | PBS.gov.au FY24 |
+| **Patient Co-payments** | ~3.0 | 11% | Estimated |
+| **OTC Medicines** | 3.6 | 13% | IMARC OTC market |
+| **Health & Beauty/Other Retail** | ~2.7 | 10% | Residual |
+| **TOTAL** | **~27.0** | 100% | |
+
+#### 7.2.2 Cross-Check: Revenue Per Store
+
+| Metric | Value | Calculation |
+|--------|-------|-------------|
+| Total Pharmacies | ~5,900 | Pharmacy Guild |
+| Total Market Revenue | A$26.5B | IBISWorld |
+| **Average Revenue/Store** | **A$4.5M** | $26.5B ÷ 5,900 |
+| CW Average Revenue/Store | A$17.5M | $10.3B ÷ 588 stores |
+| CW vs Industry Average | **3.9x** | CW runs 4x average pharmacy |
+
+**This confirms the CW model:** CW stores generate ~4x the revenue of an average pharmacy, driven by:
+- Larger format (500-1000+ sqm vs. 200-300 sqm average)
+- Higher front-of-store mix (67% vs. 22%)
+- Price-driven destination traffic
+
+---
+
+### 7.3 PBS (Pharmaceutical Benefits Scheme) Deep Dive
+
+#### 7.3.1 PBS Expenditure History
+
+| Financial Year | Government Expenditure | YoY Growth | Per Capita |
+|----------------|----------------------|------------|------------|
+| 2015-16 | A$11.8B | - | $487 |
+| 2016-17 | A$11.4B | -3.4% | $463 |
+| 2017-18 | A$11.9B | +4.4% | $479 |
+| 2018-19 | A$12.2B | +2.5% | $484 |
+| 2019-20 | A$12.4B | +1.6% | $488 |
+| 2020-21 | A$13.8B | +11.3% | $534 |
+| 2021-22 | A$14.7B | +6.5% | $569 |
+| 2022-23 | A$17.0B | +15.6% | $641 |
+| 2023-24 | A$17.7B | +4.1% | $657 |
+| **2024-25 (Budget)** | **A$19.5B** | **+10.2%** | ~$710 |
+
+**Key Observations:**
+1. **2015-2017 dip:** Patent expiries, PBS price cuts under Sixth Community Pharmacy Agreement
+2. **2020-21 surge:** COVID-19 related demand, stockpiling
+3. **2022-23 spike (+15.6%):** General co-payment reduced from $42.50 to $30.00 (Jan 2023); expensive new medicines (COVID antivirals, immunotherapies)
+4. **Underlying CAGR (2015-2025):** ~5.3%/year
+
+#### 7.3.2 PBS Expenditure by Age
+
+| Age Group | Share of PBS Spending | Avg $/Person/Year |
+|-----------|----------------------|-------------------|
+| 0-59 years | 40.4% | ~$350 |
+| 60+ years | **59.6%** | ~$1,400 |
+
+**Critical Insight:** Over-60s account for 60% of PBS spending but only ~24% of population. As this cohort grows (from 6.3M to 8.5M by 2040), PBS spending is structurally biased upward.
+
+#### 7.3.3 PBS Prescription Volume
+
+| Metric | 2023 Value |
+|--------|------------|
+| Total PBS prescriptions dispensed | ~320M/year |
+| Per capita prescription rate | 12.3 scripts/person/year |
+| Lowest socioeconomic areas | 15 scripts/person/year |
+| Highest socioeconomic areas | 11 scripts/person/year |
+
+#### 7.3.4 60-Day Dispensing Impact
+
+**Policy Change (Sep 2023):** Patients can receive 60 days of medication for a single dispensing fee.
+
+| Impact Metric | Estimate |
+|---------------|----------|
+| Medicines affected (Sep 2024) | 325 (3 tranches) |
+| Revenue loss per pharmacy | A$160K-200K/year |
+| Industry-wide impact | ~A$1.5B/year |
+| Script volume reduction | ~17% for eligible medicines |
+
+**Net Effect on Market Size:**
+- PBS government expenditure: **Neutral to slightly positive** (fee restructure under 8CPA)
+- Pharmacy retail revenue: **Negative** (fewer store visits = less front-of-store)
+- Patient out-of-pocket: **Positive** (saves ~$785M over 4 years)
+
+---
+
+### 7.4 OTC & Front-of-Store Market Analysis
+
+#### 7.4.1 OTC Medicines Market
+
+| Segment | 2024 Value (A$M) | Growth Rate |
+|---------|------------------|-------------|
+| **Total OTC Market** | **3,560** | 5.3% CAGR |
+| Vitamins & Minerals | 1,402 | ~6% |
+| Pain Relief (Analgesics) | ~600 | ~3% |
+| Cough, Cold & Flu | ~450 | ~4% |
+| Digestive Health | ~300 | ~5% |
+| Skin Care (OTC) | ~250 | ~7% |
+| Other OTC | ~558 | ~4% |
+
+**Per Capita OTC Revenue:** A$170/person/year
+
+#### 7.4.2 Beauty & Personal Care (Sold in Pharmacies)
+
+| Segment | 2024 Value (A$B) | Pharmacy Share |
+|---------|------------------|----------------|
+| Total Beauty & Personal Care | 14.8 | - |
+| Cosmetics | 4.3-9.4 | ~15% |
+| Fragrances | 0.8 | ~20% |
+| Skin Care | 3.5 | ~25% |
+| Hair Care | 1.8 | ~10% |
+| **Pharmacy Channel Share** | **~2.5-3.0** | ~18% |
+
+#### 7.4.3 Baby Products
+
+| Segment | 2024 Value (A$M) | Pharmacy Share |
+|---------|------------------|----------------|
+| Total Baby Care | 3,220 | - |
+| Infant Formula | 1,500 | ~30% |
+| Diapers/Nappies | 1,160 | ~15% |
+| Baby Toiletries | 560 | ~25% |
+| **Pharmacy Channel Share** | **~700** | ~22% |
+
+#### 7.4.4 Summary: Front-of-Store Market in Pharmacies
+
+| Category | Pharmacy Revenue (A$M) |
+|----------|----------------------|
+| OTC Medicines | 3,560 |
+| Vitamins & Supplements | 1,402 |
+| Beauty/Cosmetics | 2,500 |
+| Baby Products | 700 |
+| Other (first aid, medical devices, etc.) | 500 |
+| **Total Front-of-Store** | **~8,660** |
+
+**Front-of-Store as % of Total Pharmacy Revenue:** ~33% (vs. 67% prescription)
+
+**CW Comparison:** CW earns 67% from front-of-store vs. industry average of 33%. This is the key differentiator.
+
+---
+
+### 7.5 Historical Market Trends (2015-2025)
+
+#### 7.5.1 Pharmacy Industry Revenue (IBISWorld)
+
+| Year | Revenue (A$B) | YoY Growth |
+|------|--------------|------------|
+| 2015 | 25.0 | - |
+| 2016 | 25.2 | +0.8% |
+| 2017 | 25.1 | -0.4% |
+| 2018 | 25.4 | +1.2% |
+| 2019 | 25.6 | +0.8% |
+| 2020 | 26.8 | +4.7% |
+| 2021 | 27.0 | +0.7% |
+| 2022 | 26.5 | -1.9% |
+| 2023 | 26.3 | -0.8% |
+| 2024 | 26.4 | +0.4% |
+| 2025 | 26.6 | +0.8% |
+
+**10-Year CAGR:** ~0.6%/year (essentially flat in real terms)
+
+#### 7.5.2 Why Has the Market Been Flat?
+
+| Factor | Impact | Direction |
+|--------|--------|-----------|
+| PBS price cuts (patent expiries) | Reduced prescription revenue | ↓ |
+| Generic substitution | Lower-cost medicines | ↓ |
+| 60-day dispensing (2023+) | Fewer scripts per patient | ↓ |
+| Online pharmacy growth | Channel shift | ↓ |
+| Population growth (+1.5%/year) | More customers | ↑ |
+| Aging population | Higher per-capita spend | ↑ |
+| Front-of-store growth | Non-Rx categories growing | ↑ |
+| GLP-1 drugs (2023+) | High-cost new category | ↑ |
+
+**Net Effect:** Headwinds and tailwinds roughly offset, resulting in flat overall market.
+
+---
+
+### 7.6 ABS Data: Retail Trade Insights
+
+#### 7.6.1 ABS Retail Trade Categories
+
+The ABS tracks "Pharmaceutical, cosmetic and toiletry goods retailing" as a sub-group within "Other retailing."
+
+**Note:** The ABS Retail Trade publication is being discontinued (last release July 2025). Future data will come from the Monthly Household Spending Indicator.
+
+#### 7.6.2 Household Spending on Health
+
+| Year | Health Spending (Indexed) | Commentary |
+|------|--------------------------|------------|
+| 2019 | 100 | Pre-COVID baseline |
+| 2020 | 104 | COVID demand surge |
+| 2021 | 108 | Continued elevated |
+| 2022 | 106 | Normalisation |
+| 2023 | 112 | GLP-1s, aging pop |
+| 2024 | 116 | +15.7% YoY per ABS media release |
+
+**ABS Quote (2024):** "Household spending on health up 15.7% in the past year."
+
+#### 7.6.3 Total Health Expenditure (AIHW)
+
+| Year | Total Health Spend (A$B) | % of GDP |
+|------|-------------------------|----------|
+| 2019-20 | 196.8 | 10.0% |
+| 2020-21 | 220.1 | 10.6% |
+| 2021-22 | 245.6 | 10.7% |
+| 2022-23 | 252.5 | 9.9% |
+| 2023-24 | 270.5 | 10.0% |
+
+**Pharmaceutical share of total health spending:** ~7-8% (down from 10%+ in 2010)
+
+---
+
+### 7.7 Demographic Drivers & Projections
+
+#### 7.7.1 Population Projections (ABS)
+
+| Year | Population (M) | 65+ Share | 65+ Population |
+|------|---------------|-----------|----------------|
+| 2024 | 27.1 | 17.5% | 4.7M |
+| 2025 | 27.6 | 17.8% | 4.9M |
+| 2030 | 29.4 | 19.0% | 5.6M |
+| 2035 | 31.2 | 20.5% | 6.4M |
+| 2040 | 33.1 | 21.5% | 7.1M |
+
+**Key Insight:** The 65+ population will grow from 4.7M to 7.1M (+51%) by 2040, while total population grows only ~22%.
+
+#### 7.7.2 Chronic Disease Prevalence
+
+| Condition | 2024 Prevalence | Trend |
+|-----------|-----------------|-------|
+| Diabetes | 5.3% (1.4M people) | ↑ Rising |
+| Cardiovascular Disease | 6% | Stable |
+| Obesity (Adults) | 33% | ↑ Rising |
+| Overweight + Obesity | 63% | ↑ Rising |
+| Arthritis | 15% | ↑ Rising with age |
+
+**Diabetes is projected to grow 436% in healthcare expenditure by 2033** (AIHW projection from 2008 base).
+
+#### 7.7.3 Healthcare Spending by Age Cohort
+
+| Age Cohort | Relative Spending (vs. Median) |
+|------------|-------------------------------|
+| 0-44 | 0.5x |
+| 45-64 | 1.5x |
+| 65-74 | 2.5x |
+| 75-84 | 5.0x |
+| 85+ | 7.0x |
+
+**The "Silver Tsunami":** People 75+ spend 5-7x the median on healthcare. This cohort will grow from 1.7M (2024) to 2.8M (2040).
+
+---
+
+### 7.8 Market Size Projections (2025-2035)
+
+#### 7.8.1 Projection Methodology
+
+**Assumptions:**
+1. Population growth: +1.3%/year (ABS medium projection)
+2. Aging impact: +1.0-1.5%/year (65+ growing faster than total)
+3. Inflation/price: +1.5-2.0%/year
+4. Volume growth: +0.5-1.0%/year (chronic disease, new medicines)
+5. 60-day dispensing drag: -0.5%/year (years 1-3 only)
+6. GLP-1 tailwind: +0.5-1.0%/year (years 1-5)
+
+**Net Growth Projection:** 3.0-4.5%/year nominal; 1.0-2.5%/year real
+
+#### 7.8.2 Market Size Forecast
+
+| Year | Pharmacy Market (A$B) | Growth Rate | Key Driver |
+|------|----------------------|-------------|------------|
+| 2025 | 26.6 | +0.8% | 60-day dispensing drag |
+| 2026 | 27.5 | +3.4% | GLP-1 acceleration |
+| 2027 | 28.5 | +3.6% | Aging population |
+| 2028 | 29.5 | +3.5% | PBS new listings |
+| 2029 | 30.6 | +3.7% | Front-of-store growth |
+| 2030 | 31.8 | +3.9% | Demographic shift |
+| 2035 | **38.5** | 3.5% CAGR | Structural growth |
+
+**2035 Market Size:** A$38-40 billion (45-50% above 2024)
+
+#### 7.8.3 Segment Growth Projections
+
+| Segment | 2024 (A$B) | 2030 (A$B) | 2035 (A$B) | CAGR |
+|---------|-----------|-----------|-----------|------|
+| PBS Prescription | 17.7 | 22.0 | 26.0 | 3.6% |
+| Patient Co-pay | 3.0 | 3.5 | 4.0 | 2.7% |
+| OTC Medicines | 3.6 | 4.8 | 6.0 | 4.8% |
+| Front-of-Store Other | 2.7 | 3.5 | 4.5 | 4.8% |
+| **Total** | **27.0** | **33.8** | **40.5** | **3.8%** |
+
+---
+
+### 7.9 Competitive Structure
+
+#### 7.9.1 Market Share by Banner (Estimated 2025)
+
+| Banner/Group | Stores | Est. Revenue (A$B) | Market Share |
+|--------------|--------|-------------------|--------------|
+| **Sigma-CW Group** | 881 | ~12.0 | **~45%** |
+| - Chemist Warehouse | 588 | 10.3 | 39% |
+| - Amcal | ~200 | ~1.2 | 4.5% |
+| - Discount Drug Stores | ~93 | ~0.5 | 1.9% |
+| TerryWhite Chemmart (EBOS) | ~550 | ~3.0 | ~11% |
+| Priceline (Wesfarmers/API) | ~480 | ~2.5 | ~9% |
+| Other Banners | ~800 | ~3.0 | ~11% |
+| Independents | ~3,200 | ~6.0 | ~23% |
+| **TOTAL** | ~5,900 | ~26.5 | 100% |
+
+#### 7.9.2 Concentration Trend
+
+| Year | Top 4 Share | Independents Share |
+|------|-------------|-------------------|
+| 2015 | ~35% | ~40% |
+| 2020 | ~45% | ~32% |
+| 2024 | ~50% | ~25% |
+| 2025 (post-merger) | **~55%** | ~23% |
+
+**The market is consolidating rapidly.** Sigma-CW alone now controls ~45% of the market.
+
+---
+
+### 7.10 Key Insights: Australian Pharmacy Market
+
+#### What the Data Shows:
+
+1. **Flat Historical Growth:** The market has been essentially flat at A$25-27B for 10 years due to PBS price reforms, generic substitution, and channel shift to online.
+
+2. **Structural Tailwinds Emerging:**
+   - Aging population (65+ growing 51% by 2040)
+   - Chronic disease burden (diabetes +436% expenditure projected)
+   - GLP-1 drugs (new high-value category)
+
+3. **60-Day Dispensing is a Headwind but Manageable:**
+   - ~A$1.5B annual impact
+   - But 8CPA agreement provides partial offset
+   - Front-of-store revenue mix provides insulation
+
+4. **Front-of-Store is the Growth Story:**
+   - OTC, beauty, vitamins growing 4-6%/year
+   - CW's 67% front-of-store mix is the competitive moat
+   - Average pharmacy at 33% front-of-store is more exposed
+
+5. **Consolidation Accelerating:**
+   - Top 4 now have ~55% market share
+   - Independents declining
+   - Scale advantages in purchasing, marketing, technology
+
+6. **Real Growth Will Resume:**
+   - Demographic drivers will overwhelm policy headwinds by 2027-28
+   - Market should grow 3-4%/year nominal through 2035
+   - Total market size: A$38-40B by 2035
+
+---
+
+### 7.11 Sources: Australian Pharmacy Market
+
+1. [IBISWorld - Pharmacies in Australia (2025)](https://www.ibisworld.com/australia/industry/pharmacies/1878/)
+2. [PBS Expenditure and Prescriptions Report 2023-24](https://www.pbs.gov.au/info/statistics/expenditure-prescriptions/expenditure-prescriptions-report-1-july-2023-30-june-2024)
+3. [AIHW - PBS Prescriptions Over Time](https://www.aihw.gov.au/reports/medicines/pbs-prescriptions-over-time/contents/summary)
+4. [AIHW - Health Expenditure Australia 2023-24](https://www.aihw.gov.au/reports/health-welfare-expenditure/health-expenditure-australia-2023-24/contents/summary)
+5. [ABS - Population Projections 2022-2071](https://www.abs.gov.au/statistics/people/population/population-projections-australia/latest-release)
+6. [ABS - Monthly Household Spending Indicator](https://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator)
+7. [Pharmacy Guild - Vital Facts on Community Pharmacy](https://www.guild.org.au/__data/assets/pdf_file/0028/132994/PharmacyGuild-Vital-facts-on-Community-Pharmacy-November_v2.pdf)
+8. [IMARC - Australia OTC Market](https://www.imarcgroup.com/australia-over-the-counter-drugs-market)
+9. [60-Day Dispensing Analysis - Ergas Review](https://www.guild.org.au/__data/assets/pdf_file/0011/132410/ergas-review.pdf)
+10. [Statista - Australia Pharmacies Market](https://www.statista.com/outlook/hmo/pharmacies/australia)
+11. [Grand View Research - Australia Pharmacy Market](https://www.grandviewresearch.com/horizon/outlook/pharmacy-market/australia)
+12. [AIHW - Chronic Conditions Challenge](https://www.aihw.gov.au/reports/australias-health/chronic-conditions-challenge)
+
+---
+
 ## APPENDIX: KEY SOURCES
 
 ### Australia/General
