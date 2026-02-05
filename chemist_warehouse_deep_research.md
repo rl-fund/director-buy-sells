@@ -607,8 +607,441 @@ Regulatory body: Australian Community Pharmacy Authority (ACPA)
 
 ---
 
+## SECTION 6: UK MARKET COMPETITIVE DYNAMICS (DEEP DIVE)
+
+### 6.1 Market Overview
+
+| Metric | Value |
+|--------|-------|
+| UK Pharmacy Market Size | £27-54B (varies by definition) |
+| Total Pharmacies (UK) | ~13,700 (March 2025) |
+| Annual Closures | 248 in 2024 (~5/week) |
+| NHS Funding (2025/26) | £3.07B |
+| Online Rx Share | ~3% and growing rapidly |
+
+**Critical Context:** The UK pharmacy market is in **structural crisis**. Since 2015, core funding has been cut 30-40% in real terms while costs have risen. 1,200+ pharmacies have closed since 2017, with 35% in the most deprived communities. This creates both **challenges and opportunities** for a new entrant like Chemist Warehouse.
+
+### 6.2 Competitor Analysis: The Big Players
+
+#### 6.2.1 BOOTS UK (The Incumbent Giant)
+
+**Ownership:**
+- Formerly Walgreens Boots Alliance (WBA)
+- August 2025: Sycamore Partners acquired WBA for $10B, spun off Boots as standalone private company "The Boots Group"
+- Now private equity owned - implications for investment horizon and strategy
+
+**Scale:**
+| Metric | Value |
+|--------|-------|
+| UK Stores | ~1,740 (Dec 2024) |
+| Peak Store Count | 2,173 (2022) |
+| Store Reduction | -19.9% in 3 years |
+| Market Share (Large Multiples) | ~33.5% |
+| Active Advantage Card Members | 16.9M |
+| Online as % of Retail | 20% |
+
+**Financial Performance:**
+- 17 consecutive quarters of sales growth through Q3 2025
+- Retail sales up 5-8% YoY
+- Online sales growing 18-20%
+- Comparable pharmacy sales +10% in FY24
+
+**Strategic Positioning:**
+> **Boots has moved UPMARKET, not down.**
+
+Key evidence:
+1. **Premium Beauty Push:** 14% YoY increase in premium beauty sales; expanded salon professional brands (Kérastase, Redken) from 4% to 12% of online hair care
+2. **Experience-Led Stores:** Opened first dedicated beauty store (Dec 2023) with skin scanning, hair analysis
+3. **Value Through Loyalty:** Focus on Advantage Card rather than everyday low prices
+4. **Health Services:** 240,000+ patients using online doctor platform quarterly; 45+ health services
+
+**Pricing Strategy:**
+- NOT a discount retailer - premium positioning
+- Uses loyalty card deals for perceived value (Which? investigation found 17% of deals "misleading")
+- Price Advantage loyalty deals rather than shelf price cuts
+- 40% of shoppers distrust loyalty card savings
+
+**WHY Boots Moved Upmarket:**
+1. **Margin pressure:** NHS funding cuts make low-margin dispensing unprofitable
+2. **Differentiation:** Can't compete on price with online pharmacies
+3. **PE ownership:** Private equity wants margin improvement, not volume
+4. **Beauty moat:** Premium beauty has better margins than mass market
+
+**Boots' Weaknesses:**
+1. **Store network shrinking** (-433 stores in 3 years)
+2. **No clear discount proposition** - ceded this ground
+3. **Complex loyalty pricing** - consumer trust issues
+4. **Cost base:** High street rents, legacy store formats
+5. **PE ownership:** Short-term focus, potential debt burden
+
+---
+
+#### 6.2.2 SUPERDRUG (The #2 Retail Player)
+
+**Ownership:**
+- AS Watson Group (part of CK Hutchison Holdings, Hong Kong)
+- Sister brands: Savers (discount), The Perfume Shop
+
+**Scale:**
+| Metric | Value |
+|--------|-------|
+| UK Stores | ~900 |
+| Pharmacies (in-store) | 220+ |
+| 2024 Revenue | £1.63B |
+| Profit Before Tax | £137M (+23% YoY) |
+| Market Share | 3.8% (+0.2pp YoY) |
+
+**Financial Performance:**
+- 4th consecutive year of market share growth
+- Sales +7% in 2024 (impressive on +11.8% prior year)
+- Strong profitability: 8.4% PBT margin
+
+**Strategic Positioning:**
+- **Health & Beauty retailer** with pharmacy services (not pharmacy-led)
+- Pharmacy in ~220 stores only (not all locations)
+- Competing with Boots on beauty, not primarily on pharmacy
+- Teen skincare service launch - targeting younger demographics
+
+**2025 Expansion:**
+- 25 new stores planned
+- 65 store refurbishments
+- Focus on South East England expansion
+
+**Key Insight:** Superdrug is **not a discount pharmacy** - it's a health/beauty retailer that happens to have pharmacies in some stores. Revenue mix heavily skewed to non-pharmacy.
+
+**Superdrug's Loyalty:**
+- 38% of UK consumers enrolled (vs. 79% for Boots)
+- Gap vs. Boots = opportunity for differentiation
+- Has been accused of same misleading loyalty pricing as Boots
+
+---
+
+#### 6.2.3 WELL PHARMACY (The Independent Chain Leader)
+
+**Ownership:**
+- Bestway Group (Pakistani-British conglomerate)
+
+**Scale:**
+| Metric | Value |
+|--------|-------|
+| UK Stores | ~700-730 (June 2024) |
+| Peak Store Count | 780+ |
+| 2023 Loss After Tax | £29.1M (vs. £4.1M profit prior year) |
+| Store Disposals | 50 non-core sites exited in 2024 |
+
+**Strategic Reality:**
+- **Struggling financially** - swung from profit to significant loss
+- Actively disposing of non-core stores
+- Challenged by flat NHS funding + rising costs
+- Not expanding - contracting
+
+**Key Insight:** Well Pharmacy demonstrates **why the UK pharmacy market is difficult** for traditional operators. Even the largest independent chain is losing money.
+
+---
+
+#### 6.2.4 LLOYDS PHARMACY (The Cautionary Tale)
+
+**What Happened:**
+- Was UK's #2 pharmacy chain with 1,597 stores (Jan 2019)
+- Collapsed to 138 stores by Oct 2023 (-91%)
+- Filed for voluntary liquidation
+- £293M debt owed to creditors
+- 99% of branches sold to independents/small multiples
+
+**Timeline of Collapse:**
+| Date | Event |
+|------|-------|
+| Jan 2019 | 1,597 stores |
+| Mar 2022 | 1,338 stores |
+| Jan 2023 | Announced exit from Sainsbury's (237 stores) |
+| Jun 2023 | Sainsbury's closures complete; 2,000 redundancies |
+| Nov 2023 | Sold all remaining 1,054 stores |
+| 2024 | Liquidation with £293M debt |
+
+**WHY Lloyds Failed:**
+1. **NHS funding cuts:** 30% real-terms cut since 2015
+2. **Wrong model:** High-cost supermarket locations
+3. **No differentiation:** Couldn't compete on price or service
+4. **Ownership:** Private equity (Aurelius) stripped value
+
+**Implications for CW:**
+- Demonstrates the **risk** of traditional pharmacy economics
+- BUT also demonstrates **opportunity** - vacuum left by exit
+- ~1,000 former Lloyds locations now independents = potential acquisition targets
+
+---
+
+### 6.3 The Online Pharmacy Threat
+
+#### 6.3.1 Pharmacy2U (Market Leader)
+
+| Metric | Value |
+|--------|-------|
+| Online Rx Revenue (2023) | $261M |
+| Market Position | #1 online pharmacy |
+| Share of Online Rx | ~45% (with LloydsDirect) |
+
+**Model:**
+- Pure online prescription dispensing
+- Acquired LloydsDirect (from Lloyds Pharmacy collapse)
+- Partners with Asda for supermarket delivery
+- Distance-selling pharmacy license
+
+**Growth:**
+- Online pharmacies saw 11% volume growth in 12 months to Mar 2024
+- 100%+ increase in NHS dispensing vs. pre-pandemic
+
+#### 6.3.2 Boots.com (Hybrid Leader)
+
+- #1 in online visibility (10M+ score vs. 210K for Pharmacy2U)
+- 20% of Boots retail sales now online
+- Growing 18-20% annually
+- Leverages physical store network for click & collect
+
+#### 6.3.3 Amazon Pharmacy (Emerging Threat)
+
+- Expanding globally with $1.5B invested in pharma e-commerce (2024)
+- UK market entry would be disruptive
+- Currently limited UK presence
+
+**Why Online Is Growing:**
+1. Convenience: Repeat prescriptions delivered to door
+2. Price: Lower overheads = lower prices possible
+3. NHS integration: Electronic prescriptions enable seamless switching
+
+**Why Online Is NOT a Complete Threat to CW Model:**
+1. **Front-of-store:** Online can't replicate impulse beauty/health purchases
+2. **Urgency:** Many pharmacy purchases are immediate need
+3. **Advice:** In-person pharmacist consultation valued
+4. **Destination:** CW stores are destination shopping, not just pharmacy
+
+---
+
+### 6.4 The Supermarket Pharmacy Retreat
+
+**Key Development:** Supermarkets are **exiting** pharmacy, not expanding.
+
+| Chain | Pharmacy Status |
+|-------|-----------------|
+| Sainsbury's | Exited (237 Lloyds closed Jun 2023) |
+| Tesco | Reduced; closing stores with alternatives within 1 mile |
+| Asda | Closing some; online partnership with Pharmacy2U |
+| Morrisons | 4 pharmacy closures announced (2025) |
+
+**WHY are supermarkets retreating?**
+1. **Low margin:** NHS dispensing barely profitable
+2. **Specialist skill:** Requires qualified pharmacists (expensive)
+3. **Business rates:** Higher rates on larger properties
+4. **Core focus:** Supermarkets want to focus on groceries
+
+**Implication for CW:** Less competition from supermarkets = opportunity in retail parks where supermarkets are anchors.
+
+---
+
+### 6.5 The Discount Health/Beauty Gap
+
+**Critical Insight: There is NO true discount pharmacy chain in the UK.**
+
+| Retailer | Pharmacy? | Discount Positioning? |
+|----------|-----------|----------------------|
+| Boots | Yes | No (premium) |
+| Superdrug | Partial | No (mass market) |
+| Well | Yes | No (standard) |
+| Savers | **No** | Yes |
+| Poundland | **No** | Yes (health/beauty only) |
+| Home Bargains | **No** | Yes (health/beauty only) |
+| B&M | **No** | Yes (health/beauty only) |
+
+**Savers (AS Watson):**
+- 520+ stores, opening 30 more in 2025
+- £755M revenue, 12% growth
+- **Discount health & beauty WITHOUT pharmacy**
+- Owned by same group as Superdrug
+
+**The Gap:**
+> **No UK retailer combines DISCOUNT PRICING with PHARMACY SERVICES at scale.**
+
+CW's Australian model (discount prices + full pharmacy + front-of-store health/beauty) has **no direct UK equivalent**.
+
+---
+
+### 6.6 UK Regulatory Environment
+
+**Market Entry Rules:**
+- Must register with General Pharmaceutical Council (GPhC)
+- Must comply with Medicines & Healthcare products Regulatory Agency (MHRA)
+- NHS contract required for dispensing
+
+**Ownership:**
+- **Less restrictive than Australia** - no pharmacist ownership requirement
+- Corporate ownership permitted
+- Enables CW to own stores directly (not franchise required)
+
+**NHS Funding:**
+- Community Pharmacy Contractual Framework (CPCF)
+- 2025/26: £3.07B + £215M for Pharmacy First
+- Single Activity Fee: £1.46 per item
+- 90% of typical pharmacy income from NHS
+
+**Business Rates:**
+- Retail/hospitality relief reduced from 75% to 40% (2025/26)
+- Ending entirely from April 2026
+- Smaller stores (<£500K rateable value) get lower multiplier
+- CW big-box format may face higher rates
+
+---
+
+### 6.7 Why CW Can Succeed in UK
+
+#### Structural Advantages:
+
+1. **Discount Positioning Available**
+   - Boots moved upmarket
+   - No discount pharmacy chain exists
+   - Consumer appetite for value (cost-of-living crisis)
+   - Savers proving discount health/beauty demand exists
+
+2. **Acquisition Opportunities**
+   - 1,000+ ex-Lloyds stores now independents
+   - Struggling independents (47% not profitable at EBITDA)
+   - Boots disposing ~400+ stores over 3 years
+   - Well disposing non-core stores
+
+3. **Property Market Softening**
+   - High street vacancies increasing
+   - Landlords hungry for tenants
+   - CW as high-traffic anchor = attractive tenant
+   - 15,000 store closures predicted in 2025
+
+4. **Less Restrictive Ownership**
+   - Corporate ownership permitted
+   - No franchise structure needed
+   - Simpler expansion model than Australia
+
+5. **Ireland Proof of Concept**
+   - 13+ stores trading successfully
+   - Format works in British Isles environment
+   - Supply chain/operations learning complete
+
+#### CW Model Advantages:
+
+| Factor | UK Incumbents | CW Model |
+|--------|--------------|----------|
+| Pricing | Premium/loyalty | Everyday low prices |
+| Revenue Mix | Pharmacy-heavy (70%+) | Front-of-store-heavy (70%+) |
+| Store Format | Varied | Big-box standardised |
+| Brand | Trust/heritage | Value/destination |
+
+---
+
+### 6.8 Why CW Could Struggle in UK
+
+#### Risks:
+
+1. **NHS Dependency**
+   - 90% of pharmacy income from NHS
+   - Funding inadequate - 47% of pharmacies unprofitable
+   - CW model relies on front-of-store, but still needs viable dispensary
+
+2. **Business Rates**
+   - Big-box stores face higher rates
+   - Relief ending April 2026
+   - UK cost structure different to Australia
+
+3. **Competition Response**
+   - Boots could pivot to discount if CW succeeds
+   - AS Watson (Superdrug/Savers) could add pharmacy to Savers
+   - Online pharmacies continue growing
+
+4. **Consumer Behavior**
+   - UK shoppers may prefer small local pharmacies
+   - High street vs. retail park dynamics differ
+   - Brand awareness = zero initially
+
+5. **Pharmacist Supply**
+   - UK pharmacist workforce stressed
+   - Recruitment competition
+   - Need to build talent pipeline from scratch
+
+6. **Execution**
+   - Different supplier relationships
+   - Different product mix preferences
+   - Currency exposure (AUD/GBP)
+
+---
+
+### 6.9 UK Entry Scenarios
+
+**Base Case: Gradual Build**
+| Year | UK Stores | Cumulative Investment |
+|------|-----------|----------------------|
+| FY27 | 5 | £25M |
+| FY28 | 15 | £75M |
+| FY29 | 30 | £150M |
+| FY30 | 50 | £250M |
+| FY35 | 100 | £500M |
+
+**Bull Case: Acquisition-Led Acceleration**
+- Acquire struggling chain (Well? Regional multiple?)
+- Rebrand/convert stores
+- 100+ stores by FY30
+
+**Bear Case: Ireland Plateau**
+- UK entry delayed or abandoned
+- Focus remains on Ireland (50-60 stores)
+- UK regulatory/competitive barriers prove too high
+
+---
+
+### 6.10 Key UK Competitors Summary
+
+| Competitor | Stores | Trend | Pharmacy? | Discount? | Threat Level |
+|------------|--------|-------|-----------|-----------|--------------|
+| **Boots** | 1,740 | ↓ | Yes | No | MEDIUM - moved upmarket |
+| **Superdrug** | 900 | ↑ | Partial | No | MEDIUM - not pharmacy-focused |
+| **Well** | 700 | ↓ | Yes | No | LOW - struggling financially |
+| **Savers** | 520 | ↑ | **No** | Yes | LOW - no pharmacy |
+| **Pharmacy2U** | N/A | ↑ | Online only | Yes | MEDIUM - online only |
+| **Independents** | 6,000+ | ↓ | Yes | Varies | LOW - fragmented |
+
+---
+
+### 6.11 UK Market Entry: Key Questions to Monitor
+
+1. **When will first UK store open?** (Company registered Feb 2025)
+2. **What format?** (Ireland format: 6,500-10,000 sqft)
+3. **Location strategy?** (Retail parks vs. high street)
+4. **Acquisition vs. organic?** (Any chain acquisition?)
+5. **NHS contract secured?** (Required for dispensing)
+6. **Management team?** (UK leadership appointments)
+
+---
+
+## UK COMPETITIVE DYNAMICS: BOTTOM LINE
+
+**The UK pharmacy market is in structural distress**, with funding cuts driving closures and major players retreating (Lloyds collapsed, Boots shrinking, supermarkets exiting). This creates a **generational opportunity** for a well-capitalised entrant with a differentiated model.
+
+**CW's discount + front-of-store + pharmacy model has no direct UK equivalent.** Boots moved upmarket, Superdrug isn't pharmacy-focused, and discount retailers like Savers don't have pharmacies.
+
+**Key success factors:**
+1. Front-of-store revenue mix (reduces NHS dependency)
+2. Acquisition of distressed assets (ex-Lloyds, struggling independents)
+3. Big-box retail park locations (not high street)
+4. Rapid brand building (Australian playbook)
+
+**Key risks:**
+1. NHS economics (funding inadequate for pure pharmacy)
+2. Business rates on large stores
+3. Competitive response from Boots/AS Watson
+4. Execution in new market
+
+**Probability-weighted view:** CW has **60-70% chance** of building a meaningful UK business (50-100+ stores by 2035), with **30-40% chance** of slower progress or strategic pivot.
+
+---
+
 ## APPENDIX: KEY SOURCES
 
+### Australia/General
 1. [How quickly is Chemist Warehouse growing? - AJP](https://ajp.com.au/news/how-quickly-is-chemist-warehouse-growing/)
 2. [Sigma Healthcare 2025 Annual Results](https://sigmahealthcare.com.au/2025-annual-results-released/)
 3. [Chemist Warehouse merger creates $32B ASX giant](https://www.sharecafe.com.au/2025/02/14/chemist-warehouse-merges-with-sigma-healthcare-to-form-32-billion-asx-giant/)
@@ -621,6 +1054,26 @@ Regulatory body: Australian Community Pharmacy Authority (ACPA)
 10. [Ireland store openings - Savills](https://www.savills.ie/research-and-news/savills-news/355034/chemist-warehouse-expands-its-presence-in-ireland-with-the-opening-of-its-9th-store)
 11. [60-day dispensing reform - Pharmacy Guild](https://www.guild.org.au/__data/assets/pdf_file/0011/132410/ergas-review.pdf)
 12. [Private label strategy - Inside Retail](https://insideretail.co.nz/2025/08/27/inside-sigmas-fy25-results-merger-stores-and-private-label-lift/)
+
+### UK Market
+13. [Boots 17th consecutive quarter growth - Retail Gazette](https://www.retailgazette.co.uk/blog/2025/06/boots-17/)
+14. [Boots UK store numbers 2024 - Statista](https://www.statista.com/statistics/882967/boots-store-numbers-united-kingdom-uk/)
+15. [Sycamore Partners acquires Walgreens Boots Alliance](https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance)
+16. [Superdrug gains market share 2024 - GlobalData](https://retailtimes.co.uk/superdrug-gains-market-share-in-2024-as-its-multichannel-strategy-pays-off-says-globaldata/)
+17. [Superdrug 25 new stores 2025](https://cosmeticsbusiness.com/superdrug-marks-2025-ambitions-with-25-new-store)
+18. [LloydsPharmacy confirms exit from high street - Pharmacy Business](https://www.pharmacy.biz/news/lloydspharmacy-confirms-exit-from-the-high-street/)
+19. [LloydsPharmacy ceases 90% of branches - Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/lloydspharmacy-ceases-operating-90-of-branches-in-18-months)
+20. [Well Pharmacy - Wikipedia](https://en.wikipedia.org/wiki/Well_Pharmacy)
+21. [UK NHS pharmacy funding crisis - Community Pharmacy England](https://cpe.org.uk/our-news/nearly-a-sixth-of-pharmacies-could-close-within-a-year-pressures-survey-indicates/)
+22. [CPCF arrangements 2024-2026 - Community Pharmacy England](https://cpe.org.uk/our-news/cpcf-arrangements-for-2024-25-and-2025-26-announced/)
+23. [UK Pharmacy Market Review 2024 - Christie & Co](https://www.christie.com/news-resources/press-releases/pharmacy-market-review-2024-press-release/)
+24. [UK independent pharmacy market breakdown - Christie & Co](https://www.christie.com/news-resources/blogs/uk-independent-pharmacy-market-christie-and-co/)
+25. [Online Pharmacy Industry Report 2025 - Salience](https://salience.co.uk/insight/reports/pharmacy-e-commerce-market-performance-report/)
+26. [UK top pharmacy online stores - Statista](https://www.statista.com/forecasts/1218277/top-online-stores-pharmacies-united-kingdom-ecommercedb)
+27. [Savers 30 new UK stores 2025 - Retail Gazette](https://www.retailgazette.co.uk/blog/2025/01/savers-new-stores/)
+28. [Boots/Superdrug loyalty card investigation - Which?](https://www.itv.com/news/2026-01-30/dodgy-loyalty-card-deals-boots-and-superdrug-accused-of-misleading-customers)
+29. [UK pharmacy business rates pressure - Armstrong Watson](https://www.armstrongwatson.co.uk/news/2025/02/financial-challenges-facing-uk-pharmacies-2025-navigating-funding-cuts-and-rising-costs)
+30. [Supermarket pharmacy closures - Pharmaceutical Journal](https://pharmaceutical-journal.com/article/feature/supermarket-pharmacy-closures-a-watershed-moment)
 
 ---
 
