@@ -1232,46 +1232,85 @@ This category includes units mainly engaged in retailing pharmaceutical, cosmeti
 
 ### 7.4 Bottom-Up Market Size Model (Using Official Data)
 
-#### 7.4.1 Component-Based Build-Up (FY 2023-24)
+#### 7.4.1 The Problem with Simple Models
 
-| Segment | Value (A$B) | % of Total | Official Source |
-|---------|-------------|------------|-----------------|
-| **ABS Retail Trade (Pharm/Cosmetic/Toiletry)** | **24.0** | - | ABS 8501.0 |
-| *Of which:* | | | |
-| - PBS medicines (govt portion at retail) | 17.7 | 74% | PBS.gov.au |
-| - Patient PBS co-payments | ~1.6 | 7% | PBS.gov.au (calculated) |
-| - Non-PBS OTC medicines | ~3.0 | 12% | AIHW (allocated) |
-| - Beauty/cosmetics/toiletries/other | ~1.7 | 7% | Residual |
+**Why the ABS $24B ≠ Total Pharmacy Industry:**
 
-**Reconciliation Note:**
-- ABS "Pharmaceutical, Cosmetic and Toiletry Goods Retailing" = $24.0B
-- This captures retail turnover through pharmacies and related stores
-- PBS government expenditure ($17.7B) flows through this channel but is funded by government
-- Additional out-of-pocket spending ($15B per AIHW) includes online, supermarket, and non-pharmacy channels
+The ABS "Pharmaceutical, Cosmetic and Toiletry Goods Retailing" captures retail turnover but CW competes across a MUCH broader market:
 
-#### 7.4.2 Total Addressable Market (All Channels)
+| What CW Sells | Competitors Beyond Pharmacies |
+|---------------|------------------------------|
+| Prescriptions | Other pharmacies only |
+| Beauty/cosmetics | Mecca ($1.8B), Sephora, David Jones, Myer |
+| Fragrances | Department stores, duty free |
+| Baby products | Baby Bunting, supermarkets |
+| Vitamins | Health food stores, supermarkets |
 
-| Channel | FY 2023-24 (A$B) | Source |
-|---------|------------------|--------|
-| Pharmacy retail (ABS definition) | 24.0 | ABS 8501.0 |
-| Supermarket health/beauty | ~4.5 | Estimated |
-| Online pharmacy/health | ~2.5 | Estimated |
-| Department stores (cosmetics) | ~1.5 | Estimated |
-| **Total Market (All Channels)** | **~32.5** | |
+**CW's revenue mix (67% front-of-store) means they draw from the entire health/beauty retail TAM, not just "pharmacies."**
 
-#### 7.4.3 Cross-Check: Per Store Analysis
+#### 7.4.2 Total Addressable Market Build-Up (FY 2024)
 
-| Metric | Value | Calculation | Source |
-|--------|-------|-------------|--------|
-| Total Pharmacies (Australia) | 5,935 | - | Pharmacy Guild |
-| ABS Retail Turnover | $24.0B | - | ABS 8501.0 |
-| **Average Revenue/Pharmacy** | **$4.04M** | $24.0B ÷ 5,935 | Calculated |
-| CW Revenue (FY25) | $10.3B | - | SIG FY25 Results |
-| CW Stores | 588 | - | SIG FY25 Results |
-| **CW Average Revenue/Store** | **$17.5M** | $10.3B ÷ 588 | Calculated |
-| **CW vs Industry Average** | **4.3x** | $17.5M ÷ $4.04M | Calculated |
+| Category | Total Market (A$B) | Pharmacy Share | Pharmacy Value (A$B) | Source |
+|----------|-------------------|----------------|---------------------|--------|
+| **PBS Prescription (Govt + Co-pay)** | 19.3 | 100% | 19.3 | PBS.gov.au |
+| **Private Rx (Non-PBS scripts)** | ~2.0 | 100% | 2.0 | Estimated |
+| **OTC Medicines** | 3.6 | ~80% | 2.9 | IMARC |
+| **Vitamins & Supplements** | 3.6 | ~65% | 2.3 | Grand View |
+| **Beauty & Cosmetics** | 8.4-14.8 | ~25% | 2.5 | IMARC |
+| **Fragrances** | 0.8 | ~20% | 0.2 | Statista |
+| **Baby Products (Formula, Nappies)** | 3.2 | ~25% | 0.8 | IMARC |
+| **Medical Devices/First Aid** | ~1.5 | ~60% | 0.9 | Estimated |
+| **TOTAL PHARMACY TAM** | **~42-50** | - | **~31** | |
 
-**Source:** [Sigma Healthcare FY25 Results](https://sigmahealthcare.com.au/2025-annual-results-released/)
+#### 7.4.3 Cross-Check: IBISWorld "Pharmacies" Industry
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| IBISWorld Pharmacies Revenue | $26.5B | IBISWorld 2025 |
+| Average pharmacy Rx/Front-of-store split | 65%/35% | IBISWorld |
+| Implied Dispensary Revenue | ~$17.2B | Calculated |
+| Implied Front-of-Store Revenue | ~$9.3B | Calculated |
+
+**Problem:** CW alone does $6.9B front-of-store. If total industry front-of-store is $9.3B, CW would have 74% share - too high.
+
+**Resolution:** IBISWorld "Pharmacies" doesn't capture total addressable market for front-of-store products. CW competes against Mecca, Sephora, supermarkets, Baby Bunting, etc.
+
+#### 7.4.4 Total Health/Beauty Retail Market (All Channels)
+
+| Channel | FY 2024 (A$B) | Notes |
+|---------|---------------|-------|
+| **Pharmacy Retail (IBISWorld)** | 26.5 | Pharmacies only |
+| **Cosmetic/Toiletry Retail (IBISWorld)** | ~10.7 | Mecca, Sephora, specialty |
+| **Supermarket Health/Beauty** | ~8.0 | Coles, Woolworths |
+| **Department Store Beauty** | ~2.5 | DJs, Myer |
+| **Online Direct** | ~3.0 | Brand websites, Amazon |
+| **Baby Specialty** | ~2.0 | Baby Bunting, etc. |
+| **TOTAL HEALTH/BEAUTY RETAIL** | **~53B** | |
+
+**CW's $10.3B = ~19% of this broader TAM** (vs. 39% of narrow "pharmacy" industry)
+
+#### 7.4.5 CW Market Position Analysis
+
+| Metric | CW | Industry Avg | CW Advantage |
+|--------|-----|--------------|--------------|
+| Revenue per store | $17.5M | $4.5M | **3.9x** |
+| Front-of-store % | 67% | 35% | **+32pp** |
+| Front-of-store revenue | $6.9B | - | **~25% of non-pharmacy H&B** |
+| Dispensary revenue | $3.4B | - | **~20% of pharmacy Rx** |
+
+**Source:** [Sigma Healthcare FY25 Results](https://sigmahealthcare.com.au/2025-annual-results-released/), IBISWorld
+
+#### 7.4.6 Key Insight: CW's Revenue Mix is the Moat
+
+| Metric | CW | Avg Pharmacy | TerryWhite | Priceline |
+|--------|-----|--------------|------------|-----------|
+| Dispensary % | 33% | 65% | ~60% | ~55% |
+| Front-of-store % | **67%** | 35% | ~40% | ~45% |
+| Exposure to PBS cuts | Low | High | Medium | Medium |
+
+**CW has fundamentally repositioned pharmacy from "dispensary with some retail" to "retail destination with dispensary."**
+
+This is why CW can achieve 4x industry revenue per store - they're capturing wallet share from Mecca, Sephora, David Jones, and Baby Bunting, not just other pharmacies.
 
 ---
 
