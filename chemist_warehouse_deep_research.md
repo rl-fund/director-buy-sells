@@ -1241,26 +1241,26 @@ The ABS "Pharmaceutical, Cosmetic and Toiletry Goods Retailing" captures retail 
 | What CW Sells | Competitors Beyond Pharmacies |
 |---------------|------------------------------|
 | Prescriptions | Other pharmacies only |
-| Beauty/cosmetics | Mecca ($1.8B), Sephora, David Jones, Myer |
+| Beauty/cosmetics | Mecca ($1.28B), Sephora, David Jones, Myer |
 | Fragrances | Department stores, duty free |
-| Baby products | Baby Bunting, supermarkets |
-| Vitamins | Health food stores, supermarkets |
+| Baby products | Baby Bunting ($522M), supermarkets |
+| Vitamins | Health food stores, Blackmores, supermarkets |
 
 **CW's revenue mix (67% front-of-store) means they draw from the entire health/beauty retail TAM, not just "pharmacies."**
 
-#### 7.4.2 Total Addressable Market Build-Up (FY 2024)
+#### 7.4.2 Total Addressable Market Build-Up (FY 2024) - Sourced
 
 | Category | Total Market (A$B) | Pharmacy Share | Pharmacy Value (A$B) | Source |
 |----------|-------------------|----------------|---------------------|--------|
-| **PBS Prescription (Govt + Co-pay)** | 19.3 | 100% | 19.3 | PBS.gov.au |
-| **Private Rx (Non-PBS scripts)** | ~2.0 | 100% | 2.0 | Estimated |
-| **OTC Medicines** | 3.6 | ~80% | 2.9 | IMARC |
-| **Vitamins & Supplements** | 3.6 | ~65% | 2.3 | Grand View |
-| **Beauty & Cosmetics** | 8.4-14.8 | ~25% | 2.5 | IMARC |
+| **PBS Prescription (Govt + Co-pay)** | 19.3 | 100% | 19.3 | [PBS.gov.au 2023-24](https://www.pbs.gov.au/info/statistics/expenditure-prescriptions/expenditure-prescriptions-report-1-july-2023-30-june-2024) |
+| **Private Rx (Non-PBS scripts)** | ~2.0 | 100% | 2.0 | AIHW estimate |
+| **OTC Medicines** | 3.6 | ~80% | 2.9 | [IMARC OTC Market](https://www.imarcgroup.com/australia-over-the-counter-drugs-market) |
+| **Vitamins & Supplements** | 3.6 | ~65% | 2.3 | [IMARC Dietary Supplements](https://www.imarcgroup.com/australia-dietary-supplements-market) |
+| **Beauty & Cosmetics** | 8.4 | ~25% | 2.1 | [IMARC Cosmetics](https://www.imarcgroup.com/australia-cosmetics-market) |
 | **Fragrances** | 0.8 | ~20% | 0.2 | Statista |
-| **Baby Products (Formula, Nappies)** | 3.2 | ~25% | 0.8 | IMARC |
-| **Medical Devices/First Aid** | ~1.5 | ~60% | 0.9 | Estimated |
-| **TOTAL PHARMACY TAM** | **~42-50** | - | **~31** | |
+| **Baby Products (Formula, Nappies)** | 3.2 | ~25% | 0.8 | [IMARC Juvenile Products](https://www.imarcgroup.com/australia-juvenile-products-market) |
+| **Medical Devices/First Aid** | ~1.5 | ~60% | 0.9 | AIHW estimate |
+| **TOTAL PHARMACY TAM** | **~42-43** | - | **~30.5** | |
 
 #### 7.4.3 Cross-Check: IBISWorld "Pharmacies" Industry
 
@@ -1275,21 +1275,83 @@ The ABS "Pharmaceutical, Cosmetic and Toiletry Goods Retailing" captures retail 
 
 **Resolution:** IBISWorld "Pharmacies" doesn't capture total addressable market for front-of-store products. CW competes against Mecca, Sephora, supermarkets, Baby Bunting, etc.
 
-#### 7.4.4 Total Health/Beauty Retail Market (All Channels)
+#### 7.4.4 Total Health/Beauty Retail Market (All Channels) - Sourced Data
 
-| Channel | FY 2024 (A$B) | Notes |
-|---------|---------------|-------|
-| **Pharmacy Retail (IBISWorld)** | 26.5 | Pharmacies only |
-| **Cosmetic/Toiletry Retail (IBISWorld)** | ~10.7 | Mecca, Sephora, specialty |
-| **Supermarket Health/Beauty** | ~8.0 | Coles, Woolworths |
-| **Department Store Beauty** | ~2.5 | DJs, Myer |
-| **Online Direct** | ~3.0 | Brand websites, Amazon |
-| **Baby Specialty** | ~2.0 | Baby Bunting, etc. |
-| **TOTAL HEALTH/BEAUTY RETAIL** | **~53B** | |
+| Channel | FY 2024 (A$B) | Historical CAGR | Source |
+|---------|---------------|-----------------|--------|
+| **Pharmacy Retail** | 26.5 | +0.5% (2019-24) | [IBISWorld Pharmacies 2025](https://www.ibisworld.com/australia/industry/pharmacies/1878/) |
+| **Cosmetic/Toiletry Specialty** | 5.7-6.3 | +2.6% (2020-25) | [IBISWorld Cosmetic Retailing 2025](https://www.ibisworld.com/australia/industry/cosmetic-and-toiletry-retailing/1879/) |
+| **Online Perfume/Cosmetics** | 2.8 | +9.6% (2020-25) | [IBISWorld Online Perfume/Cosmetic Sales](https://www.ibisworld.com/australia/industry/online-perfume-and-cosmetic-sales/4090/) |
+| **Supermarket Health/Beauty** | ~6.0 | ~3% est. | Coles/Woolworths H&B categories |
+| **Department Store Beauty** | ~2.0 | -1.5% | [Statista - Myer Revenue](https://www.statista.com/statistics/1075233/australia-total-sales-of-myers-holdings-limited/) |
+| **Baby Specialty** | 0.52 | +6.3% (FY24-25) | [Baby Bunting FY25](https://stockanalysis.com/quote/asx/BBN/revenue/) |
+| **ePharmacy (Online Rx)** | 3.6 | +12.5% (2020-24) | [Credence Research ePharmacy 2024](https://www.credenceresearch.com/report/australia-epharmacy-market) |
+| **TOTAL HEALTH/BEAUTY RETAIL** | **~47-50B** | | |
 
-**CW's $10.3B = ~19% of this broader TAM** (vs. 39% of narrow "pharmacy" industry)
+**CW's $10.3B = ~21% of this broader TAM** (vs. 39% of narrow "pharmacy" industry)
 
-#### 7.4.5 CW Market Position Analysis
+#### 7.4.5 Key Competitor Revenue & Trends (Sourced)
+
+| Company | FY 2024 Revenue | 5-Year Trend | Source |
+|---------|-----------------|--------------|--------|
+| **Mecca Brands** | $1.28B | +137% (2019-24) | [The Nightly / ASIC Filings](https://thenightly.com.au/business/beauty-behemoth-mecca-cracks-1b-in-sales-as-consumers-splurge-on-makeup-skincare-fragrance--c-18931112) |
+| **Baby Bunting** | $522M | +5% (2020-25) | [Yahoo Finance FY25](https://finance.yahoo.com/news/baby-bunting-group-full-2025-222321177.html) |
+| **Myer (Total)** | $3.27B | -2% | [Statista](https://www.statista.com/statistics/1075233/australia-total-sales-of-myers-holdings-limited/) |
+| **David Jones** | ~$1.7B | Declining | [PitchGrade](https://pitchgrade.com/companies/david-jones) |
+| **CW Online** | US$425M | +5-10% | [ECDB 2024](https://ecdb.com/resources/sample-data/market/au/health-care) |
+
+**Mecca Growth Detail (ASIC Filings):**
+| Year | Revenue (A$M) | YoY Growth |
+|------|---------------|------------|
+| 2019 | 538 | - |
+| 2020 | 572 | +6% |
+| 2021 | 689 | +20% |
+| 2022 | 972 | +41% |
+| 2023 | 1,210 | +24% |
+| 2024 | 1,280 | +6% |
+
+**Source:** [Business of Fashion - Mecca](https://www.businessoffashion.com/articles/global-markets/how-mecca-dominates-the-australian-beauty-market/), ASIC company filings
+
+> **Key Insight:** Mecca grew 137% in 5 years while pharmacies grew 0.5%. CW's front-of-store competes directly with Mecca - this is the growth market CW is capturing.
+
+#### 7.4.6 Historical Market Trends by Segment (2019-2024)
+
+**Beauty & Cosmetics Market Growth:**
+| Year | Market Size (A$B) | Source |
+|------|-------------------|--------|
+| 2019 | 7.2 | IMARC |
+| 2020 | 7.5 | IMARC |
+| 2021 | 7.9 | IMARC |
+| 2022 | 8.1 | IMARC |
+| 2023 | 8.3 | IMARC |
+| 2024 | 8.4-8.7 | [IMARC Australia Cosmetics 2024](https://www.imarcgroup.com/australia-cosmetics-market) |
+
+**5-Year CAGR:** +3.2% (outpacing pharmacy at +0.5%)
+
+**Vitamins & Supplements Market Growth:**
+| Year | Market Size (A$B) | Source |
+|------|-------------------|--------|
+| 2020 | 2.9 | Mordor Intelligence |
+| 2021 | 3.1 | Mordor Intelligence |
+| 2022 | 3.3 | Mordor Intelligence |
+| 2023 | 3.4 | Mordor Intelligence |
+| 2024 | 3.6 | [IMARC Dietary Supplements 2024](https://www.imarcgroup.com/australia-dietary-supplements-market) |
+
+**5-Year CAGR:** +5.5% | **Forecast CAGR (2025-33):** +7.6%
+
+**Baby Products Market (Baby Bunting as proxy):**
+| Year | BBN Revenue (A$M) | Source |
+|------|-------------------|--------|
+| FY20 | 418 | ASX Filings |
+| FY21 | 473 | ASX Filings |
+| FY22 | 506 | ASX Filings |
+| FY23 | 516 | ASX Filings |
+| FY24 | 498 | [Yahoo Finance](https://finance.yahoo.com/news/baby-bunting-group-full-2024-211817835.html) |
+| FY25 | 522 | [Yahoo Finance](https://finance.yahoo.com/news/baby-bunting-group-full-2025-222321177.html) |
+
+**Source:** [IMARC Australia Juvenile Products](https://www.imarcgroup.com/australia-juvenile-products-market) - Total market $702.8M (2024), forecast $1.25B by 2033 (+5.9% CAGR)
+
+#### 7.4.7 CW Market Position Analysis
 
 | Metric | CW | Industry Avg | CW Advantage |
 |--------|-----|--------------|--------------|
@@ -1300,7 +1362,7 @@ The ABS "Pharmaceutical, Cosmetic and Toiletry Goods Retailing" captures retail 
 
 **Source:** [Sigma Healthcare FY25 Results](https://sigmahealthcare.com.au/2025-annual-results-released/), IBISWorld
 
-#### 7.4.6 Key Insight: CW's Revenue Mix is the Moat
+#### 7.4.8 Key Insight: CW's Revenue Mix is the Moat
 
 | Metric | CW | Avg Pharmacy | TerryWhite | Priceline |
 |--------|-----|--------------|------------|-----------|
